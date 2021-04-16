@@ -1,7 +1,7 @@
 # Document de conception du projet *The Movie Advisors*
 
 ## :black_medium_square: Description du client
-Le but de la création d'un client est de permettre le test de notre Service Web. Cela afin de procurer des résultats visibles.
+Le but de la création d'un client est de permettre le test de notre Service Web. Cela, afin de procurer des résultats visibles.
 
 ## :black_medium_square: Démonstration des fonctionnalité de l'implémentation
 
