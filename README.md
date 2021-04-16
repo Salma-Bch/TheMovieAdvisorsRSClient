@@ -18,6 +18,8 @@ Nous avons créé 3 artistes :
   * Tomorrowland
   * Lollapalooza
 
+Nous avons testé l'ajout d'un artiste à un évènement (ex : Selena Gomez).
+
 Nous avons testé la récupération des évènement à partir d'une région (ex : Californie).
 
 Nous avons testé la récupération d'un évènement à partir d'un artiste (ex : David Guetta).
