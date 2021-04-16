@@ -33,8 +33,8 @@ public class Test {
 		System.out.println(lollapalooza);
 		
 		getByArea("Californie");
-		getByArtist(davidGuetta.getId(), davidGuetta);
-		getAll();
+		//getByArtist(davidGuetta.getId(), davidGuetta);
+		//getAll();
 	}
 	
 	/**
