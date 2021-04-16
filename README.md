@@ -19,7 +19,9 @@ Nous avons créé 3 artistes :
   * Lollapalooza
 
 Nous avons testé la récupération des évènement à partir d'une région (ex : Californie).
+
 Nous avons testé la récupération d'un évènement à partir d'un artiste (ex : David Guetta).
+
 Nous avons testé la récupération de tout les évènements.
 
 Tout cela grâce aux méthodex :
