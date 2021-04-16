@@ -18,15 +18,15 @@ Nous avons créé 3 artistes :
   * Tomorrowland
   * Lollapalooza
 
-Nous avons testé l'ajout d'un artiste à un évènement (ex : Selena Gomez).
+_Nous avons testé l'ajout d'un artiste à un évènement (ex : Selena Gomez)._
 
-Nous avons testé la récupération des évènement à partir d'une région (ex : Californie).
+_Nous avons testé la récupération des évènement à partir d'une région (ex : Californie)._
 
-Nous avons testé la récupération d'un évènement à partir d'un artiste (ex : David Guetta).
+_Nous avons testé la récupération d'un évènement à partir d'un artiste (ex : David Guetta)._
 
-Nous avons testé la récupération de tout les évènements.
+_Nous avons testé la récupération de tout les évènements._
 
-Tout cela grâce aux méthodex :
+Tout cela, grâce aux méthodes :
  * **_add_**, permettant d'ajouter un artiste à un évènement.
  * **_getByArea_**, permettant de récupérer les évènements à partir d'une région.
  * **_getByArtist_**, permettant de récupérer les évènements à partir d'un artiste.
