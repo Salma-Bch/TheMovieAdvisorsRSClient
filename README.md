@@ -8,24 +8,26 @@ Le but de la création d'un client est de permettre le test de notre Service Web
 ### :black_medium_small_square: Test
 La classe Test contient l'implémentation de tout les tests qui seront réalisés.
 
-Nous avons crée un Artiste.
-* **_Artist_**
+Nous avons créé 3 artistes :
+ * Selena Gomez
+ * David Guetta
+ * Martin Guarrix
  
-    Un artiste possède un id, un nom et une nationalité.
-   
- * **_Event_**
- 
-    Une évènement possède un id, un nom, une date et une région.
+ Nous avons également créé 3 évènements :
+  * Coachella
+  * Tomorrowland
+  * Lollapalooza
 
-### :black_medium_small_square: Services
- * **_EventManagement_**
- 
-    EventManagement est l'interface du service d'un évènement. Elle regroupe l'appel de toutes les méthodes permettant de manipuler un évènement.
-   
- * **_EventManagementImpl_**
- 
-    EventManagementImpl est la classe d'implémenation du service d'un évènement. Elle regroupe l'implémentation de toutes les méthodes permettant de manipuler un évènement.
-    
+Nous avons testé la récupération des évènement à partir d'une région (ex : Californie).
+Nous avons testé la récupération d'un évènement à partir d'un artiste (ex : David Guetta).
+Nous avons testé la récupération de tout les évènements.
+
+Tout cela grâce aux méthodex :
+ * **_add_**, permettant d'ajouter un artiste à un évènement.
+ * **_getByArea_**, permettant de récupérer les évènements à partir d'une région.
+ * **_getByArtist_**, permettant de récupérer les évènements à partir d'un artiste.
+ * **_getAll_**, permettant de récupérer tout les évènements.
+
 ## :black_medium_square: Autres
 Voici les liens vers les autres référentiels sur la plateforme GitHub :
   * Lien vers le référentiel du projet WS : https://github.com/Salma-Bch/theMovieAdvisorsWS.git
